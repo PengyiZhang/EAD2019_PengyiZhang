@@ -1,6 +1,6 @@
 # Ensemble Mask-aided R-CNN
 
-This is the test code for ensemble mask-aided r-cnn in EAD2019 challenge workshop
+This is the test code of ensemble mask-aided r-cnn for EAD2019 challenge workshop
 
 ## Requirements
 
@@ -12,14 +12,14 @@ maskrcnn-benchmark==0.1
 
 ID | Model | Backbone | Weights
 - | :-: | :-: | -: 
-0 | Faster R-CNN | Resnet50 | [model_final.pth](00_resnet50_faster_decay_1e_4/model_final.pth)
-1 | Mask-aided R-CNN | Resnet50 | [model_final.pth](01_resnet50_mask_decay_1e_4/model_final.pth) 
-2 | Faster R-CNN | Resnet50+FPN | [model_final.pth](02_resnet50-fpn_faster_decay_1e_4/model_final.pth)
-3 | Mask-aided R-CNN | Resnet50+FPN | [model_final.pth](03_resnet50-fpn_mask_decay_1e_4/model_final.pth) 
-4 | Faster R-CNN | Resnet101+FPN | [model_final.pth](04_resnet101_faster_decay_2e_4/model_final.pth)
-5 | Mask-aided R-CNN | Resnet101+FPN | [model_final.pth](05_resnet101-fpn_faster_decay_2e_4/model_final.pth)
-6 | Faster R-CNN | ResneXt101+FPN | [model_final.pth](06_resnext101_faster_decay_2e_4/model_final.pth)
-7 | Mask-aided R-CNN | ResneXt101+FPN | [model_final.pth](07_resnext101-fpn_faster_decay_2e_4/model_final.pth)
+0 | Faster R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1Q4zTLX5_m7SKStTALkK2OaJ3nhxdpamu)
+1 | Mask-aided R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1XLRRFhrpSDZBRMJntbzoWocGL-hJbAqs) 
+2 | Faster R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1SO0iNVftgBYFX2kHFs-WCbjTvHcaneCJ)
+3 | Mask-aided R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1BVuIIn3Rxh39vfyYkj1AV77Bh8t3pBid) 
+4 | Faster R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1-foszOeQ7nYWzf-TEVR9q433Gia9MZeM)
+5 | Mask-aided R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1QdqRucutSdU6wUWpZzrSr6yurvXmLg-6)
+6 | Faster R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1JCex2jgS60SdbH4dsTifVEUgXod9SDkE)
+7 | Mask-aided R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1MpczZ-IUdDYm0KXMXMwdAK8yC5g5aHmB)
 
 
 ## test
