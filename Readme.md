@@ -11,7 +11,7 @@ maskrcnn-benchmark==0.1
 ## pre-trained models
 
 | ID  | Model | Backbone | Weights |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | 0 | Faster R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1Q4zTLX5_m7SKStTALkK2OaJ3nhxdpamu)  |
 | 1 | Mask-aided R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1XLRRFhrpSDZBRMJntbzoWocGL-hJbAqs)  |
 | 2 | Faster R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1SO0iNVftgBYFX2kHFs-WCbjTvHcaneCJ)  |
