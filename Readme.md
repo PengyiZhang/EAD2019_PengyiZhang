@@ -1,6 +1,6 @@
 # Ensemble Mask-aided R-CNN
 
-This is the test code for ensemble mask-aided r-cnn in EAD2019
+This is the test code for ensemble mask-aided r-cnn in EAD2019 challenge workshop
 
 ## Requirements
 
