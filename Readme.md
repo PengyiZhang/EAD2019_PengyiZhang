@@ -5,21 +5,21 @@ This is the test code of ensemble mask-aided r-cnn for EAD2019 challenge worksho
 ## Requirements
 
 Pytorch==1.0.0
+
 maskrcnn-benchmark==0.1
 
 ## pre-trained models
 
-
-ID | Model | Backbone | Weights
-- | :-: | :-: | -: 
-0 | Faster R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1Q4zTLX5_m7SKStTALkK2OaJ3nhxdpamu)
-1 | Mask-aided R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1XLRRFhrpSDZBRMJntbzoWocGL-hJbAqs) 
-2 | Faster R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1SO0iNVftgBYFX2kHFs-WCbjTvHcaneCJ)
-3 | Mask-aided R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1BVuIIn3Rxh39vfyYkj1AV77Bh8t3pBid) 
-4 | Faster R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1-foszOeQ7nYWzf-TEVR9q433Gia9MZeM)
-5 | Mask-aided R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1QdqRucutSdU6wUWpZzrSr6yurvXmLg-6)
-6 | Faster R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1JCex2jgS60SdbH4dsTifVEUgXod9SDkE)
-7 | Mask-aided R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1MpczZ-IUdDYm0KXMXMwdAK8yC5g5aHmB)
+| ID  | Model | Backbone | Weights |
+| ------------- | ------------- |
+| 0 | Faster R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1Q4zTLX5_m7SKStTALkK2OaJ3nhxdpamu)  |
+| 1 | Mask-aided R-CNN | Resnet50 | [model_final.pth](https://drive.google.com/open?id=1XLRRFhrpSDZBRMJntbzoWocGL-hJbAqs)  |
+| 2 | Faster R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1SO0iNVftgBYFX2kHFs-WCbjTvHcaneCJ)  |
+| 3 | Mask-aided R-CNN | Resnet50+FPN | [model_final.pth](https://drive.google.com/open?id=1BVuIIn3Rxh39vfyYkj1AV77Bh8t3pBid)  |
+| 4 | Faster R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1-foszOeQ7nYWzf-TEVR9q433Gia9MZeM)  |
+| 5 | Mask-aided R-CNN | Resnet101+FPN | [model_final.pth](https://drive.google.com/open?id=1QdqRucutSdU6wUWpZzrSr6yurvXmLg-6)  |
+| 6 | Faster R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1JCex2jgS60SdbH4dsTifVEUgXod9SDkE)  |
+| 7 | Mask-aided R-CNN | ResneXt101+FPN | [model_final.pth](https://drive.google.com/open?id=1MpczZ-IUdDYm0KXMXMwdAK8yC5g5aHmB)  |
 
 
 ## test
